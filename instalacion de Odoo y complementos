@@ -30,7 +30,7 @@ OE_VERSION="11.0"
 # Set this to True if you want to install Odoo 11 Enterprise!
 IS_ENTERPRISE="False"
 #set the superadmin password
-OE_SUPERADMIN="CNIT.Eventos.()"
+OE_SUPERADMIN="Tres.Ochenta.()"
 OE_CONFIG="${OE_USER}-server"
 
 ##
